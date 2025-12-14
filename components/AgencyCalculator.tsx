@@ -39,7 +39,7 @@ export const AgencyCalculator: React.FC = () => {
                Traditional agencies punish you for success. As you scale, their fee goes up—for doing the exact same work.
              </p>
              <p className="text-zinc-900 font-bold mb-4 font-mono">
-               > Don't give away your margin. Re-invest it.
+               {'>'} Don't give away your margin. Re-invest it.
              </p>
              <div className="bg-indigo-50 border-2 border-black p-6 shadow-hard-sm">
                 <p className="text-sm text-indigo-900 font-bold uppercase mb-2 flex items-center gap-2">

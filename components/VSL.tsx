@@ -21,10 +21,10 @@ export const VSL: React.FC = () => {
                 THE MATH IS <br/><span className="text-brand-orange">RIGGED.</span>
             </h2>
             <p className="text-zinc-400 text-lg leading-relaxed mb-8 font-mono text-sm">
-                > AGENCY MODEL DETECTED: <span className="text-red-500">FLAWED.</span><br/>
-                > IF THEY TAKE % OF SPEND...<br/>
-                > THEY WANT YOU TO SPEND MORE.<br/>
-                > NOT PROFIT MORE.
+                {'>'} AGENCY MODEL DETECTED: <span className="text-red-500">FLAWED.</span><br/>
+                {'>'} IF THEY TAKE % OF SPEND...<br/>
+                {'>'} THEY WANT YOU TO SPEND MORE.<br/>
+                {'>'} NOT PROFIT MORE.
             </p>
             <div className="text-white text-lg border-l-4 border-brand-orange pl-4 bg-zinc-900/50 p-4">
                <p className="font-bold italic">"Why would they work hard to lower your CPA, if it means their commission check gets smaller?"</p>

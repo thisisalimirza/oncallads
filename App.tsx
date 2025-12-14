@@ -84,9 +84,9 @@ const Footer: React.FC<{ onViewChange: (view: View) => void }> = ({ onViewChange
             <span className="text-2xl font-bold font-display text-white uppercase tracking-tighter">OnCallAds</span>
           </div>
           <p className="text-zinc-500 font-mono text-sm leading-relaxed max-w-sm border-l-2 border-zinc-800 pl-4">
-            > SYSTEM STATUS: ONLINE<br/>
-            > MISSION: KILL HOURLY BILLING.<br/>
-            > LOCATION: GLOBAL.
+            {'>'} SYSTEM STATUS: ONLINE<br/>
+            {'>'} MISSION: KILL HOURLY BILLING.<br/>
+            {'>'} LOCATION: GLOBAL.
           </p>
         </div>
         <div>
