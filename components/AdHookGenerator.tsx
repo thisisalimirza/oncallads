@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { generateAdHooks } from '../services/geminiService';
 import { AdHook } from '../types';
-import { Sparkles, Loader2, Target, Terminal } from 'lucide-react';
+import { Sparkles, Loader2, Terminal } from 'lucide-react';
 import { DynamicIcon } from './Icons';
 
 export const AdHookGenerator: React.FC = () => {

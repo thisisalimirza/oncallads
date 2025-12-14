@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Play, Volume2, AlertOctagon } from 'lucide-react';
+import { Play, AlertOctagon } from 'lucide-react';
 
 export const VSL: React.FC = () => {
   const [isPlaying, setIsPlaying] = useState(false);

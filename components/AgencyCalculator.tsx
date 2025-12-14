@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { ArrowRight, Calculator, RefreshCw } from 'lucide-react';
+import { Calculator, RefreshCw } from 'lucide-react';
 
 export const AgencyCalculator: React.FC = () => {
   const [adSpend, setAdSpend] = useState(25000); 

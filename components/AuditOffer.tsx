@@ -1,5 +1,5 @@
 import React from 'react';
-import { Search, ArrowRight, Clock, ShieldCheck, Ticket } from 'lucide-react';
+import { ArrowRight, ShieldCheck, Ticket } from 'lucide-react';
 
 export const AuditOffer: React.FC = () => {
   return (

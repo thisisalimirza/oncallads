@@ -1,5 +1,5 @@
 import React from 'react';
-import { X, Check, AlertTriangle, ShieldCheck } from 'lucide-react';
+import { Check, AlertTriangle, ShieldCheck } from 'lucide-react';
 
 export const ComparisonTable: React.FC = () => {
   return (
